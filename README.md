@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jesusoviedo&repo=github_profile"/>
+
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=jesusoviedo&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusoviedo"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+
