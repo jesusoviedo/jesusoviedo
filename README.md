@@ -87,6 +87,9 @@ Other skills:
   <a href="https://linkedin.com/in/jesusoviedoriquelme" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://medium.com/@jesusoviedoriquelme" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" alt="Medium Blog" />
+  </a>
 </p>
 
 ---
