@@ -35,7 +35,7 @@
 
 - **🧮 Paraguay Public Servant Salary Calculator**  
   _An end-to-end MLOps project to automate public salary prediction with CI/CD, MLflow, Evidently, Mage, and Terraform._  
-  🔗 [GitHub Repo](https://github.com/jesusoviedo/paraguay-public-servant-salary-calculator)
+  🔗 [GitHub Repo](https://github.com/jesusoviedo/paraguay-public-servant-salary-calculato)
 
 ---
 
