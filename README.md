@@ -43,7 +43,8 @@
 
 - 📘 **BSc in Computer Science** – Universidad Autónoma de Asunción (2018)
 - 🤖 **Diploma in Artificial Intelligence** – Universidad Nacional de Asunción (2023)
-- 📚 **Data Engineering Zoomcamp (in progress)** – DataTalksClub (2025)
+- 📦 **LLM Zoomcamp (in progress)** – DataTalksClub (2025)
+- 📚 **Data Engineering Zoomcamp** – DataTalksClub (2025)
 - 🎓 **Machine Learning Specialization** – DeepLearning.AI (2024)
 - 🧠 **MLOps Zoomcamp** – DataTalksClub (2024)
 - 📈 **BigQuery for Data Analysts** – Google Cloud (2024)
