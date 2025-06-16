@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jesús Oviedo Riquelme</h1>
-<h3 align="center">Software Developer & Aspiring Data Engineer | ML & MLOps Enthusiast</h3>
+<h3 align="center">Software Developer passionate about Data Engineering, ML & ML | Learning LLMs & Generative AI to power real-world solutions</h3>
 
 <p align="center">
   <em>
     I'm a software developer from Paraguay with over 10 years of experience in Java and Python development.<br>
-    I'm passionate about Data Engineering, Machine Learning, and MLOps, and currently deepening my knowledge in these fields to drive impactful solutions.
+    I'm passionate about Data Engineering, Machine Learning, and MLOps, and currently expanding my expertise into Large Language Models (LLMs) and Generative AI to build intelligent and impactful solutions.
   </em>
 </p>
 
